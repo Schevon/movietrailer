@@ -12,5 +12,5 @@ developing server-side code to store a list of movies within Python objects.
 
 How to Run: 
 To run the script, clone this repository directory and run video_config.py. 
-If executed successfully, a new html page fresh_tomatoes will be generated or overwritten. 
-You can view the page by opening fresh_tomatoes.html with any web browser.
+If executed successfully, a new html page movie_trailer will be generated or overwritten. 
+You can view the page by opening movie_trailer.html with any web browser.
